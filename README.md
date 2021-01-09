@@ -13,6 +13,10 @@ Behaviour-driven development is an idea built on top of TDD.
 3) It gives you a feedback loop. When you are doing TDD you get feedback which tells you what to fix next.
 4) It helps you make sure your code is producing the results you expect.
 
+## Rspec challenge
+
+https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md
+
 ## Where can I learn more about Rspec?
 
 https://www.rubyguides.com/2018/07/rspec-tutorial/
